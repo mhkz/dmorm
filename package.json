@@ -9,7 +9,7 @@
   "files": [
     "dist"
   ],
-  "keywords": [],
-  "author": "",
+  "keywords": ["sequelize", "达梦数据库", "dmorm", "达梦数据库对象模型", "orm", "nodejd达梦", "达梦orm"],
+  "author": "guofeng",
   "license": "MIT"
 }
